@@ -5,8 +5,8 @@ iOS-仿支付宝刮刮乐效果
 
 ![刮刮乐](https://github.com/ZLFighting/ScratchDemo/blob/master/ScratchDemo/B18955F7-9EE7-4FAE-97AE-F58CA3CEBF68.png)
 
-实现思路, 其实很简单的三步:
->1.  展示刮出来的效果的view: 即刮开后刮刮乐效果展示-显示的文字Label
+>实现思路, 其实很简单的三步:
+1.  展示刮出来的效果的view: 即刮开后刮刮乐效果展示-显示的文字Label
 2. 设置遮挡在外面的Image(被刮的图片)
 3. 在touchesMoved方法里面实现操作: 刮开图片获取文字
 
